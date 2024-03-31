@@ -2,6 +2,7 @@
 <h3 align="center">Passionate Pursuit of Software Development : Embarking on a Journey of Continuous Learning</h3>
 
 - 📫 How to reach me **soumayaromdhani2003@gmail.com**
+- - 📫 How to reach me **www.linkedin.com/in/soumaya-romdhani-92768725b**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
