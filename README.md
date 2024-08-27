@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumaya Romdhani</h1>
-<h3 align="center">Passionate Pursuit of Software Development : Embarking on a Journey of Continuous Learning</h3>
+<h3 align="center">Passionate Pursuit of Software Development : Embarking on a Journey of Continuous Learning</h3>.
 
 - 📫 How to reach me **soumayaromdhani2003@gmail.com**
 - 📫 How to reach me **www.linkedin.com/in/soumaya-romdhani-92768725b**
