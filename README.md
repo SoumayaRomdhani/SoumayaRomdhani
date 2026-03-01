@@ -100,45 +100,7 @@
 
 <br/>
 
-<div align="center">
 
-### ✦ &nbsp; G I T H U B &nbsp; S T A T S &nbsp; ✦
-
-<br/>
-
-<img height="178em" src="https://github-readme-stats.vercel.app/api?username=SOUMAYA_USERNAME&show_icons=true&hide_border=true&bg_color=0e0618&title_color=9b72cf&icon_color=c084fc&text_color=d4c5f0&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUMAYA_USERNAME&layout=compact&hide_border=true&bg_color=0e0618&title_color=9b72cf&text_color=d4c5f0&langs_count=6"/>
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SOUMAYA_USERNAME&hide_border=true&background=0e0618&stroke=9b72cf&ring=c084fc&fire=e879f9&currStreakLabel=9b72cf&sideLabels=c084fc&dates=7c6fa0&currStreakNum=e2d9f3&sideNums=e2d9f3)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### ✦ &nbsp; F E A T U R E D &nbsp; W O R K &nbsp; ✦
-
-<br/>
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=SOUMAYA_USERNAME&repo=YOUR_REPO_1&hide_border=true&bg_color=0e0618&title_color=9b72cf&text_color=d4c5f0&icon_color=c084fc)](https://github.com/SOUMAYA_USERNAME/YOUR_REPO_1)
-&nbsp;
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=SOUMAYA_USERNAME&repo=YOUR_REPO_2&hide_border=true&bg_color=0e0618&title_color=9b72cf&text_color=d4c5f0&icon_color=c084fc)](https://github.com/SOUMAYA_USERNAME/YOUR_REPO_2)
-
-</div>
-
-<br/>
-
----
-
-<br/>
 
 <div align="center">
 
