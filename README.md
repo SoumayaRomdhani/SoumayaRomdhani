@@ -116,10 +116,6 @@
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=SOUMAYA_USERNAME&color=9b72cf&style=flat-square&label=profile+visits)
-
-<br/>
-
 </div>
 
 ---
@@ -128,9 +124,16 @@
 
 <div align="center">
 
-<sub><i>&nbsp;&nbsp;"The universe is under no obligation to make sense to you."&nbsp;&nbsp;</i></sub>
 <br/>
-<sub><i>&nbsp;&nbsp;— but the data might, if you ask the right questions. &nbsp;&nbsp;</i></sub>
+<div align="center">
+<sub><i>  "The universe is under no obligation to make sense to you."  </i></sub>
+<br/>
+<sub><i>  — but the data might, if you ask the right questions.   </i></sub>
+</div>
+<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
 
 </div>
 
