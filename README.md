@@ -66,9 +66,6 @@ print(me.hello())
 
 <img src="https://github-readme-stats.vercel.app/api?username=SOUMAYA_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ffcc&icon_color=7c7cff&text_color=c0c0d0&include_all_commits=true&count_private=true&hide_title=true" width="100%"/>
 
-<br/>
-
-![](https://komarev.com/ghpvc/?username=SOUMAYA_USERNAME&color=00ffcc&style=flat-square&label=profile+visits)
 
 </td>
 </tr>
