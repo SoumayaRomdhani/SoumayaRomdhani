@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&duration=3000&pause=1000&color=c084fc&center=true&vCenter=true&width=600&lines=Deep+Learning;NLP+%26+LLMs;Computer+Vision;Data+Analysis;Fine-tuning+LLMs;RAG+pipelines" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SoumayaRomdhani&color=9b72cf&style=flat-square&label=VISITORS" alt="Visitor Badge" />
-</p>
-
 ---
 
 ## 🛠 Tools & Tech
