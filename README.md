@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Your+Name+%F0%9F%91%8B;AI+%26+Data+Science+Student;Building+Intelligent+Systems;Turning+Data+into+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Soumaya+Romdhani+%F0%9F%91%8B;AI+%26+Data+Science+Student;Building+Intelligent+Systems;Turning+Data+into+Decisions)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,9 +20,8 @@
 ```python
 class DataScientist:
     def __init__(self):
-        self.name        = "Your Name"
+        self.name        = "Soumaya"
         self.role        = "AI & Data Science Student"
-        self.location    = "Your City, Country 🌍"
         self.focus       = ["Deep Learning", "NLP", "Computer Vision", "MLOps"]
         self.languages   = ["Python", "R", "SQL", "Bash"]
         self.currently   = "Exploring the frontiers of Large Language Models"
