@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a1a,100:0d0221&height=200&section=header&text=Soumaya%20Romdhani&fontColor=00ffcc&fontSize=45&fontAlignY=55&animation=twinkling&desc=AI%20Engineer%20in%20the%20Making%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Deep%20Learner&descColor=7c7cff&descSize=14&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soumaya%20Romdhani&fontColor=e2d9f3&fontSize=46&fontAlignY=60&animation=fadeIn&desc=AI%20%26%20Data%20Science%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20NLP%20%E2%80%A2%20Computer%20Vision&descColor=9b72cf&descSize=14&descAlignY=78" width="100%"/>
 
 </div>
 
@@ -8,123 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FFCC&center=true&vCenter=true&width=720&lines=_%3E+initializing+Soumaya.ai...;_%3E+loading+modules%3A+deep_learning+%E2%9C%93+nlp+%E2%9C%93+vision+%E2%9C%93;_%3E+status%3A+building+the+future%2C+one+model+at+a+time;_%3E+passion%3A+turning+noise+into+knowledge;_%3E+ready.)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
-
-<br/>
-
-<table align="center" border="0">
-<tr>
-<td width="55%">
-
-```python
-# ╔══════════════════════════════════╗
-# ║         soumaya_romdhani.py      ║
-# ╚══════════════════════════════════╝
-
-class SoumayaRomdhani:
-    """
-    AI & Data Science Student
-    Crafting intelligent systems
-    from the ground up.
-    """
-
-    def __init__(self):
-        self.name       = "Soumaya Romdhani"
-        self.role       = "AI & Data Science Student"
-        self.focus      = [
-            "🧠 Deep Learning",
-            "💬 NLP & Large Language Models",
-            "👁️  Computer Vision",
-            "📊 Data Analysis & Visualization",
-        ]
-        self.stack      = ["Python", "PyTorch", "HuggingFace"]
-        self.currently  = "Fine-tuning LLMs & exploring RAG"
-        self.looking_for = "Research collabs & internships"
-        self.__motto    = "Elegant models. Clean code. Real impact."
-
-    def hello(self) -> str:
-        return f"Welcome to my corner of GitHub ✦"
-
-me = SoumayaRomdhani()
-print(me.hello())
-
-# >> Welcome to my corner of GitHub ✦
-```
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SOUMAYA_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ffcc&icon_color=7c7cff&text_color=c0c0d0&include_all_commits=true&count_private=true&hide_title=true" width="100%"/>
-
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-## ✦ &nbsp; T E C H &nbsp; A R S E N A L &nbsp; ✦
-
-<br/>
-
-**― Languages ―**
-
-![Python](https://img.shields.io/badge/Python-000010?style=flat-square&logo=python&logoColor=00ffcc)
-![R](https://img.shields.io/badge/R-000010?style=flat-square&logo=r&logoColor=00ffcc)
-![SQL](https://img.shields.io/badge/SQL-000010?style=flat-square&logo=postgresql&logoColor=00ffcc)
-![Bash](https://img.shields.io/badge/Bash-000010?style=flat-square&logo=gnubash&logoColor=00ffcc)
-
-<br/>
-
-**― AI / ML ―**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-000010?style=flat-square&logo=pytorch&logoColor=7c7cff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000010?style=flat-square&logo=tensorflow&logoColor=7c7cff)
-![Keras](https://img.shields.io/badge/Keras-000010?style=flat-square&logo=keras&logoColor=7c7cff)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-000010?style=flat-square&logo=huggingface&logoColor=7c7cff)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-000010?style=flat-square&logo=scikit-learn&logoColor=7c7cff)
-![LangChain](https://img.shields.io/badge/LangChain-000010?style=flat-square&logo=chainlink&logoColor=7c7cff)
-
-<br/>
-
-**― Data & Viz ―**
-
-![Pandas](https://img.shields.io/badge/Pandas-000010?style=flat-square&logo=pandas&logoColor=00ffcc)
-![NumPy](https://img.shields.io/badge/NumPy-000010?style=flat-square&logo=numpy&logoColor=00ffcc)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000010?style=flat-square&logo=python&logoColor=00ffcc)
-![Plotly](https://img.shields.io/badge/Plotly-000010?style=flat-square&logo=plotly&logoColor=00ffcc)
-![Tableau](https://img.shields.io/badge/Tableau-000010?style=flat-square&logo=tableau&logoColor=00ffcc)
-
-<br/>
-
-**― Tools & Infra ―**
-
-![Docker](https://img.shields.io/badge/Docker-000010?style=flat-square&logo=docker&logoColor=7c7cff)
-![Git](https://img.shields.io/badge/Git-000010?style=flat-square&logo=git&logoColor=7c7cff)
-![MLflow](https://img.shields.io/badge/MLflow-000010?style=flat-square&logo=mlflow&logoColor=7c7cff)
-![Jupyter](https://img.shields.io/badge/Jupyter-000010?style=flat-square&logo=jupyter&logoColor=7c7cff)
-![VS Code](https://img.shields.io/badge/VS%20Code-000010?style=flat-square&logo=visualstudiocode&logoColor=7c7cff)
-![Google Colab](https://img.shields.io/badge/Colab-000010?style=flat-square&logo=googlecolab&logoColor=7c7cff)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=17&pause=1400&color=9B72CF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+from+the+ground+up.;Where+data+becomes+knowledge%2C+and+models+become+meaning.;Deep+Learning+%C2%B7+NLP+%C2%B7+Computer+Vision+%C2%B7+Data+Science.;Curious+mind.+Rigorous+craft.+Real+impact.)](https://git.io/typing-svg)
 
 </div>
 
@@ -136,25 +20,24 @@ print(me.hello())
 
 <div align="center">
 
-## ✦ &nbsp; D O M A I N S &nbsp; ✦
+### ✦ &nbsp; A B O U T &nbsp; ✦
+
+</div>
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   🧠  DEEP LEARNING      │  CNNs · RNNs · GANs · Diffusion      ║
-║   ─────────────────────────────────────────────────────────────  ║
-║   💬  NLP & LLMs         │  Transformers · RAG · Fine-tuning     ║
-║   ─────────────────────────────────────────────────────────────  ║
-║   👁️   COMPUTER VISION    │  Detection · Segmentation · CLIP     ║
-║   ─────────────────────────────────────────────────────────────  ║
-║   📊  DATA SCIENCE       │  EDA · Statistics · Storytelling      ║
-║   ─────────────────────────────────────────────────────────────  ║
-║   ⚙️   MLOps              │  Experiment tracking · Deployment     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+| | |
+|:---:|:---|
+| 🎓 | AI & Data Science student, passionate about building intelligent systems |
+| 🧠 | Deep Learning — CNNs, RNNs, Transformers, Diffusion models |
+| 💬 | NLP & LLMs — fine-tuning, RAG pipelines, prompt engineering |
+| 👁️ | Computer Vision — detection, segmentation, Vision-Language models |
+| 📊 | Data Analysis — EDA, statistical modeling, data storytelling |
+| 🔭 | Currently exploring multimodal AI & open-source LLM fine-tuning |
+| 🤝 | Open to research collaborations & internship opportunities |
+| ✦ | *"Elegant models. Clean code. Real impact."* |
 
 </div>
 
@@ -166,17 +49,70 @@ print(me.hello())
 
 <div align="center">
 
-## ✦ &nbsp; G I T H U B &nbsp; S T A T S &nbsp; ✦
+### ✦ &nbsp; T E C H &nbsp; S T A C K &nbsp; ✦
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SOUMAYA_USERNAME&show_icons=true&hide_border=true&bg_color=0a0a14&title_color=00ffcc&icon_color=7c7cff&text_color=c0c0d0&include_all_commits=true&count_private=true"/>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-110820?style=flat-square&logo=python&logoColor=9b72cf)
+![R](https://img.shields.io/badge/R-110820?style=flat-square&logo=r&logoColor=9b72cf)
+![SQL](https://img.shields.io/badge/SQL-110820?style=flat-square&logo=postgresql&logoColor=9b72cf)
+![Bash](https://img.shields.io/badge/Bash-110820?style=flat-square&logo=gnubash&logoColor=9b72cf)
+
+<br/>
+
+**AI · ML · DL**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-110820?style=flat-square&logo=pytorch&logoColor=c084fc)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-110820?style=flat-square&logo=tensorflow&logoColor=c084fc)
+![Keras](https://img.shields.io/badge/Keras-110820?style=flat-square&logo=keras&logoColor=c084fc)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-110820?style=flat-square&logo=huggingface&logoColor=c084fc)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-110820?style=flat-square&logo=scikit-learn&logoColor=c084fc)
+![LangChain](https://img.shields.io/badge/LangChain-110820?style=flat-square&logo=chainlink&logoColor=c084fc)
+
+<br/>
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-110820?style=flat-square&logo=pandas&logoColor=9b72cf)
+![NumPy](https://img.shields.io/badge/NumPy-110820?style=flat-square&logo=numpy&logoColor=9b72cf)
+![Plotly](https://img.shields.io/badge/Plotly-110820?style=flat-square&logo=plotly&logoColor=9b72cf)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-110820?style=flat-square&logo=python&logoColor=9b72cf)
+![Tableau](https://img.shields.io/badge/Tableau-110820?style=flat-square&logo=tableau&logoColor=9b72cf)
+
+<br/>
+
+**Tools & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-110820?style=flat-square&logo=docker&logoColor=c084fc)
+![Git](https://img.shields.io/badge/Git-110820?style=flat-square&logo=git&logoColor=c084fc)
+![MLflow](https://img.shields.io/badge/MLflow-110820?style=flat-square&logo=mlflow&logoColor=c084fc)
+![Jupyter](https://img.shields.io/badge/Jupyter-110820?style=flat-square&logo=jupyter&logoColor=c084fc)
+![VS Code](https://img.shields.io/badge/VS%20Code-110820?style=flat-square&logo=visualstudiocode&logoColor=c084fc)
+![Google Colab](https://img.shields.io/badge/Colab-110820?style=flat-square&logo=googlecolab&logoColor=c084fc)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### ✦ &nbsp; G I T H U B &nbsp; S T A T S &nbsp; ✦
+
+<br/>
+
+<img height="178em" src="https://github-readme-stats.vercel.app/api?username=SOUMAYA_USERNAME&show_icons=true&hide_border=true&bg_color=0e0618&title_color=9b72cf&icon_color=c084fc&text_color=d4c5f0&include_all_commits=true&count_private=true"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUMAYA_USERNAME&layout=compact&hide_border=true&bg_color=0a0a14&title_color=00ffcc&text_color=c0c0d0&langs_count=6"/>
+<img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUMAYA_USERNAME&layout=compact&hide_border=true&bg_color=0e0618&title_color=9b72cf&text_color=d4c5f0&langs_count=6"/>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SOUMAYA_USERNAME&theme=ads-dark&hide_border=true&background=0a0a14&stroke=00ffcc&ring=7c7cff&fire=00ffcc&currStreakLabel=00ffcc&sideLabels=7c7cff&dates=888899&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SOUMAYA_USERNAME&hide_border=true&background=0e0618&stroke=9b72cf&ring=c084fc&fire=e879f9&currStreakLabel=9b72cf&sideLabels=c084fc&dates=7c6fa0&currStreakNum=e2d9f3&sideNums=e2d9f3)](https://git.io/streak-stats)
 
 </div>
 
@@ -188,19 +124,15 @@ print(me.hello())
 
 <div align="center">
 
-## ✦ &nbsp; C U R R E N T L Y &nbsp; ✦
+### ✦ &nbsp; F E A T U R E D &nbsp; W O R K &nbsp; ✦
+
+<br/>
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=SOUMAYA_USERNAME&repo=YOUR_REPO_1&hide_border=true&bg_color=0e0618&title_color=9b72cf&text_color=d4c5f0&icon_color=c084fc)](https://github.com/SOUMAYA_USERNAME/YOUR_REPO_1)
+&nbsp;
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=SOUMAYA_USERNAME&repo=YOUR_REPO_2&hide_border=true&bg_color=0e0618&title_color=9b72cf&text_color=d4c5f0&icon_color=c084fc)](https://github.com/SOUMAYA_USERNAME/YOUR_REPO_2)
 
 </div>
-
-```bash
-$ soumaya --status
-
-  [●] Studying     →  Fine-tuning open-source LLMs for domain adaptation
-  [●] Building     →  RAG pipeline for intelligent document Q&A
-  [●] Reading      →  "Attention Is All You Need" — and everything after
-  [●] Exploring    →  Multimodal AI & Vision-Language models
-  [◌] Goal 2025   →  First research paper submission ✦
-```
 
 <br/>
 
@@ -210,47 +142,38 @@ $ soumaya --status
 
 <div align="center">
 
-## ✦ &nbsp; C O N N E C T &nbsp; ✦
+### ✦ &nbsp; L E T ' S &nbsp; C O N N E C T &nbsp; ✦
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000010?style=for-the-badge&logo=linkedin&logoColor=00ffcc)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Kaggle](https://img.shields.io/badge/Kaggle-000010?style=for-the-badge&logo=kaggle&logoColor=00ffcc)](https://kaggle.com/YOUR_KAGGLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000010?style=for-the-badge&logo=vercel&logoColor=7c7cff)](https://YOUR_WEBSITE.com)
-[![Email](https://img.shields.io/badge/Email-000010?style=for-the-badge&logo=gmail&logoColor=7c7cff)](mailto:soumaya@email.com)
-[![Twitter / X](https://img.shields.io/badge/Twitter-000010?style=for-the-badge&logo=x&logoColor=00ffcc)](https://twitter.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-110820?style=for-the-badge&logo=linkedin&logoColor=9b72cf)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Kaggle](https://img.shields.io/badge/Kaggle-110820?style=for-the-badge&logo=kaggle&logoColor=9b72cf)](https://kaggle.com/YOUR_KAGGLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-110820?style=for-the-badge&logo=vercel&logoColor=c084fc)](https://YOUR_WEBSITE.com)
+[![Email](https://img.shields.io/badge/Email-110820?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:soumaya@email.com)
+[![Twitter](https://img.shields.io/badge/Twitter-110820?style=for-the-badge&logo=x&logoColor=9b72cf)](https://twitter.com/YOUR_HANDLE)
 
 <br/><br/>
 
-```
-✦  open to research collaborations, internships & cool AI projects  ✦
-```
+![](https://komarev.com/ghpvc/?username=SOUMAYA_USERNAME&color=9b72cf&style=flat-square&label=profile+visits)
 
 <br/>
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+---
 
 <br/>
 
 <div align="center">
 
-<sub>
-
-```
-"It is not the mountain we conquer, but ourselves."
-                                         — and the gradient descent.
-```
-
-</sub>
+<sub><i>&nbsp;&nbsp;"The universe is under no obligation to make sense to you."&nbsp;&nbsp;</i></sub>
+<br/>
+<sub><i>&nbsp;&nbsp;— but the data might, if you ask the right questions. &nbsp;&nbsp;</i></sub>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:0a0a1a,100:000000&height=120&section=footer&text=&fontColor=00ffcc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
