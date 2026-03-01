@@ -53,13 +53,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9b72cf&height=100&section=footer" />
 </p>
-<br/>
-<sub><i>— and the gradient descent.</i></sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</div>
