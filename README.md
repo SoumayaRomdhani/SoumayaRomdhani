@@ -17,7 +17,6 @@
 ## 🧠 About Me
 
 I'm an AI & Data Science student fascinated by the intersection of **machine learning**, **language models**, and **human intelligence**.
-I believe AI is not just a technology — it's a new way of thinking, and I'm here to push its boundaries.
 
 - 🔭 Currently exploring **LLMs, fine-tuning, and RAG pipelines**
 - 🌱 Always learning, always experimenting
@@ -40,7 +39,7 @@ I believe AI is not just a technology — it's a new way of thinking, and I'm he
 <div align="center">
 
 > ### *"It is not the mountain we conquer, but ourselves."*
-> #### *— and the gradient descent. 🤖*
+> ### *— and the gradient descent. 🤖*
 
 <br/>
 
