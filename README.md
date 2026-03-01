@@ -3,8 +3,24 @@
 ### <p align="center"> AI & Data Science Student </p>
 
 <p align="center">
+  <em>Passionate about building intelligent systems that learn, adapt, and make sense of the world — <br/>
+  one model at a time.</em>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Deep+Learning;NLP+%26+LLMs;Computer+Vision;Data+Analysis;Fine-tuning+LLMs" alt="Typing SVG" />
 </p>
+
+---
+
+
+I'm an AI & Data Science student fascinated by the intersection of **machine learning**, **language models**, and **human intelligence**.  
+
+
+- 🔭 Currently exploring **LLMs, fine-tuning, and RAG pipelines**
+- 🌱 Always learning, always experimenting
+- 💡 Turning complex data into meaningful insights
+- 🤝 Open to collaborations on AI/ML projects
 
 ---
 
@@ -17,9 +33,8 @@
 
 ---
 
-
-> "It is not the mountain we conquer, but ourselves."
-> — and the gradient descent.
+> *"It is not the mountain we conquer, but ourselves."*  
+> — and the gradient descent. 🤖
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
