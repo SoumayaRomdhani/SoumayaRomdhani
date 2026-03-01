@@ -1,43 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soumaya%20Romdhani&fontColor=e2d9f3&fontSize=46&fontAlignY=60&animation=fadeIn&desc=AI%20%26%20Data%20Science%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20NLP%20%E2%80%A2%20Computer%20Vision&descColor=9b72cf&descSize=14&descAlignY=78" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Soumaya%20Romdhani&fontColor=e2d9f3&fontSize=48&fontAlignY=60&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Student&descColor=9b72cf&descSize=16&descAlignY=78" width="100%"/>
 
 <br/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=17&pause=1400&color=9B72CF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+from+the+ground+up.;Where+data+becomes+knowledge%2C+and+models+become+meaning.;Deep+Learning+%C2%B7+NLP+%C2%B7+Computer+Vision+%C2%B7+Data+Science.;Curious+mind.+Rigorous+craft.+Real+impact.)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&pause=1200&color=9B72CF&center=true&vCenter=true&width=700&lines=🧠+Deep+Learning+%C2%B7+NLP+%C2%B7+Computer+Vision;📊+Turning+data+into+decisions;🤖+Fine-tuning+LLMs+%26+building+RAG+pipelines;✦+Curious+mind.+Rigorous+craft.+Real+impact.)](https://git.io/typing-svg)
 
 <br/>
 
----
-
-<br/>
-
-<div align="center">
-
-### ✦ &nbsp; A B O U T &nbsp; ✦
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| | |
-|:---:|:---|
-| 🎓 | AI & Data Science student, passionate about building intelligent systems |
-| 🧠 | Deep Learning — CNNs, RNNs, Transformers, Diffusion models |
-| 💬 | NLP & LLMs — fine-tuning, RAG pipelines, prompt engineering |
-| 👁️ | Computer Vision — detection, segmentation, Vision-Language models |
-| 📊 | Data Analysis — EDA, statistical modeling, data storytelling |
-| 🔭 | Currently exploring multimodal AI & open-source LLM fine-tuning |
-| 🤝 | Open to research collaborations & internship opportunities |
-| ✦ | *"Elegant models. Clean code. Real impact."* |
+![Visitor Badge](https://komarev.com/ghpvc/?username=SOUMAYA_USERNAME&color=9b72cf&style=flat-square&label=visitors)
 
 </div>
 
@@ -49,48 +20,31 @@
 
 <div align="center">
 
-### ✦ &nbsp; T E C H &nbsp; S T A C K &nbsp; ✦
+### ✦ &nbsp; T O O L S &nbsp; & &nbsp; T E C H &nbsp; ✦
 
 <br/>
 
-**Languages**
+![Python](https://img.shields.io/badge/Python-110820?style=flat-square&logo=python&logoColor=c084fc)
+![R](https://img.shields.io/badge/R-110820?style=flat-square&logo=r&logoColor=c084fc)
+![SQL](https://img.shields.io/badge/SQL-110820?style=flat-square&logo=postgresql&logoColor=c084fc)
 
-![Python](https://img.shields.io/badge/Python-110820?style=flat-square&logo=python&logoColor=9b72cf)
-![R](https://img.shields.io/badge/R-110820?style=flat-square&logo=r&logoColor=9b72cf)
-![SQL](https://img.shields.io/badge/SQL-110820?style=flat-square&logo=postgresql&logoColor=9b72cf)
-![Bash](https://img.shields.io/badge/Bash-110820?style=flat-square&logo=gnubash&logoColor=9b72cf)
+![PyTorch](https://img.shields.io/badge/PyTorch-110820?style=flat-square&logo=pytorch&logoColor=9b72cf)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-110820?style=flat-square&logo=tensorflow&logoColor=9b72cf)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-110820?style=flat-square&logo=huggingface&logoColor=9b72cf)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-110820?style=flat-square&logo=scikit-learn&logoColor=9b72cf)
+![Keras](https://img.shields.io/badge/Keras-110820?style=flat-square&logo=keras&logoColor=9b72cf)
+![LangChain](https://img.shields.io/badge/LangChain-110820?style=flat-square&logo=chainlink&logoColor=9b72cf)
 
-<br/>
+![Pandas](https://img.shields.io/badge/Pandas-110820?style=flat-square&logo=pandas&logoColor=c084fc)
+![NumPy](https://img.shields.io/badge/NumPy-110820?style=flat-square&logo=numpy&logoColor=c084fc)
+![Plotly](https://img.shields.io/badge/Plotly-110820?style=flat-square&logo=plotly&logoColor=c084fc)
+![Tableau](https://img.shields.io/badge/Tableau-110820?style=flat-square&logo=tableau&logoColor=c084fc)
 
-**AI · ML · DL**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-110820?style=flat-square&logo=pytorch&logoColor=c084fc)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-110820?style=flat-square&logo=tensorflow&logoColor=c084fc)
-![Keras](https://img.shields.io/badge/Keras-110820?style=flat-square&logo=keras&logoColor=c084fc)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-110820?style=flat-square&logo=huggingface&logoColor=c084fc)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-110820?style=flat-square&logo=scikit-learn&logoColor=c084fc)
-![LangChain](https://img.shields.io/badge/LangChain-110820?style=flat-square&logo=chainlink&logoColor=c084fc)
-
-<br/>
-
-**Data & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-110820?style=flat-square&logo=pandas&logoColor=9b72cf)
-![NumPy](https://img.shields.io/badge/NumPy-110820?style=flat-square&logo=numpy&logoColor=9b72cf)
-![Plotly](https://img.shields.io/badge/Plotly-110820?style=flat-square&logo=plotly&logoColor=9b72cf)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-110820?style=flat-square&logo=python&logoColor=9b72cf)
-![Tableau](https://img.shields.io/badge/Tableau-110820?style=flat-square&logo=tableau&logoColor=9b72cf)
-
-<br/>
-
-**Tools & Infra**
-
-![Docker](https://img.shields.io/badge/Docker-110820?style=flat-square&logo=docker&logoColor=c084fc)
-![Git](https://img.shields.io/badge/Git-110820?style=flat-square&logo=git&logoColor=c084fc)
-![MLflow](https://img.shields.io/badge/MLflow-110820?style=flat-square&logo=mlflow&logoColor=c084fc)
-![Jupyter](https://img.shields.io/badge/Jupyter-110820?style=flat-square&logo=jupyter&logoColor=c084fc)
-![VS Code](https://img.shields.io/badge/VS%20Code-110820?style=flat-square&logo=visualstudiocode&logoColor=c084fc)
-![Google Colab](https://img.shields.io/badge/Colab-110820?style=flat-square&logo=googlecolab&logoColor=c084fc)
+![Docker](https://img.shields.io/badge/Docker-110820?style=flat-square&logo=docker&logoColor=9b72cf)
+![Git](https://img.shields.io/badge/Git-110820?style=flat-square&logo=git&logoColor=9b72cf)
+![Jupyter](https://img.shields.io/badge/Jupyter-110820?style=flat-square&logo=jupyter&logoColor=9b72cf)
+![VS Code](https://img.shields.io/badge/VS%20Code-110820?style=flat-square&logo=visualstudiocode&logoColor=9b72cf)
+![Google Colab](https://img.shields.io/badge/Colab-110820?style=flat-square&logo=googlecolab&logoColor=9b72cf)
 
 </div>
 
@@ -99,8 +53,6 @@
 ---
 
 <br/>
-
-
 
 <div align="center">
 
@@ -108,15 +60,14 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-110820?style=for-the-badge&logo=linkedin&logoColor=9b72cf)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Kaggle](https://img.shields.io/badge/Kaggle-110820?style=for-the-badge&logo=kaggle&logoColor=9b72cf)](https://kaggle.com/YOUR_KAGGLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-110820?style=for-the-badge&logo=vercel&logoColor=c084fc)](https://YOUR_WEBSITE.com)
-[![Email](https://img.shields.io/badge/Email-110820?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:soumaya@email.com)
-[![Twitter](https://img.shields.io/badge/Twitter-110820?style=for-the-badge&logo=x&logoColor=9b72cf)](https://twitter.com/YOUR_HANDLE)
-
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-110820?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Kaggle](https://img.shields.io/badge/Kaggle-110820?style=for-the-badge&logo=kaggle&logoColor=c084fc)](https://kaggle.com/YOUR_KAGGLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-110820?style=for-the-badge&logo=vercel&logoColor=9b72cf)](https://YOUR_WEBSITE.com)
+[![Email](https://img.shields.io/badge/Email-110820?style=for-the-badge&logo=gmail&logoColor=9b72cf)](mailto:soumaya@email.com)
 
 </div>
+
+<br/>
 
 ---
 
@@ -124,16 +75,9 @@
 
 <div align="center">
 
+<sub><i>"It is not the mountain we conquer, but ourselves."</i></sub>
 <br/>
-<div align="center">
-<sub><i>  "The universe is under no obligation to make sense to you."  </i></sub>
-<br/>
-<sub><i>  — but the data might, if you ask the right questions.   </i></sub>
-</div>
-<br/>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</div>
+<sub><i>— and the gradient descent.</i></sub>
 
 </div>
 
