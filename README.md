@@ -1,81 +1,58 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b72cf&height=200&section=header&text=Soumaya%20Romdhani&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Student&descSize=20&descAlignVertical=55" alt="Header Banner" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Soumaya%20Romdhani&fontColor=e2d9f3&fontSize=48&fontAlignY=60&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Student&descColor=9b72cf&descSize=16&descAlignY=78" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&duration=3000&pause=1000&color=c084fc&center=true&vCenter=true&width=600&lines=Deep+Learning;NLP+%26+LLMs;Computer+Vision;Data+Analysis;Fine-tuning+LLMs;RAG+pipelines" alt="Typing Animation" />
+</p>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&pause=1200&color=9B72CF&center=true&vCenter=true&width=700&lines=🧠+Deep+Learning+%C2%B7+NLP+%C2%B7+Computer+Vision;📊+Turning+data+into+decisions;🤖+Fine-tuning+LLMs+%26+building+RAG+pipelines;✦+Curious+mind.+Rigorous+craft.+Real+impact.)](https://git.io/typing-svg)
-
-<br/>
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=SOUMAYA_USERNAME&color=9b72cf&style=flat-square&label=visitors)
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SoumayaRomdhani&color=9b72cf&style=flat-square&label=VISITORS" alt="Visitor Badge" />
+</p>
 
 ---
 
-<br/>
+## 🛠 Tools & Tech
 
-<div align="center">
-
-### ✦ &nbsp; T O O L S &nbsp; & &nbsp; T E C H &nbsp; ✦
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-110820?style=flat-square&logo=python&logoColor=c084fc)
-![R](https://img.shields.io/badge/R-110820?style=flat-square&logo=r&logoColor=c084fc)
-![SQL](https://img.shields.io/badge/SQL-110820?style=flat-square&logo=postgresql&logoColor=c084fc)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-110820?style=flat-square&logo=pytorch&logoColor=9b72cf)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-110820?style=flat-square&logo=tensorflow&logoColor=9b72cf)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-110820?style=flat-square&logo=huggingface&logoColor=9b72cf)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-110820?style=flat-square&logo=scikit-learn&logoColor=9b72cf)
-![Keras](https://img.shields.io/badge/Keras-110820?style=flat-square&logo=keras&logoColor=9b72cf)
-![LangChain](https://img.shields.io/badge/LangChain-110820?style=flat-square&logo=chainlink&logoColor=9b72cf)
-
-![Pandas](https://img.shields.io/badge/Pandas-110820?style=flat-square&logo=pandas&logoColor=c084fc)
-![NumPy](https://img.shields.io/badge/NumPy-110820?style=flat-square&logo=numpy&logoColor=c084fc)
-![Plotly](https://img.shields.io/badge/Plotly-110820?style=flat-square&logo=plotly&logoColor=c084fc)
-![Tableau](https://img.shields.io/badge/Tableau-110820?style=flat-square&logo=tableau&logoColor=c084fc)
-
-![Docker](https://img.shields.io/badge/Docker-110820?style=flat-square&logo=docker&logoColor=9b72cf)
-![Git](https://img.shields.io/badge/Git-110820?style=flat-square&logo=git&logoColor=9b72cf)
-![Jupyter](https://img.shields.io/badge/Jupyter-110820?style=flat-square&logo=jupyter&logoColor=9b72cf)
-![VS Code](https://img.shields.io/badge/VS%20Code-110820?style=flat-square&logo=visualstudiocode&logoColor=9b72cf)
-![Google Colab](https://img.shields.io/badge/Colab-110820?style=flat-square&logo=googlecolab&logoColor=9b72cf)
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-Python%20|%20SQL%20|%20R-110820?style=for-the-badge&logoColor=9b72cf" />
+  <br>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-PyTorch%20|%20TensorFlow%20|%20HuggingFace%20|%20Scikit--Learn-110820?style=for-the-badge&logoColor=9b72cf" />
+  <br>
+  <img src="https://img.shields.io/badge/Data%20%26%20Viz-Pandas%20|%20NumPy%20|%20Matplotlib%20|%20Tableau-110820?style=for-the-badge&logoColor=9b72cf" />
+  <br>
+  <img src="https://img.shields.io/badge/Tools%20%26%20Infra-Git%20|%20Docker%20|%20MLflow%20|%20LangChain-110820?style=for-the-badge&logoColor=9b72cf" />
+</p>
 
 ---
 
-<br/>
+## 📫 Let's Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-9b72cf?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Kaggle-9b72cf?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-c084fc?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-c084fc?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-### ✦ &nbsp; L E T ' S &nbsp; C O N N E C T &nbsp; ✦
+<br>
 
-<br/>
+<p align="center">
+  <i>"It is not the mountain we conquer, but ourselves."</i><br>
+  — and the gradient descent.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-110820?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Kaggle](https://img.shields.io/badge/Kaggle-110820?style=for-the-badge&logo=kaggle&logoColor=c084fc)](https://kaggle.com/YOUR_KAGGLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-110820?style=for-the-badge&logo=vercel&logoColor=9b72cf)](https://YOUR_WEBSITE.com)
-[![Email](https://img.shields.io/badge/Email-110820?style=for-the-badge&logo=gmail&logoColor=9b72cf)](mailto:soumaya@email.com)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<sub><i>"It is not the mountain we conquer, but ourselves."</i></sub>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b72cf&height=100&section=footer" />
+</p>
 <br/>
 <sub><i>— and the gradient descent.</i></sub>
 
