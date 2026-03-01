@@ -1,172 +1,138 @@
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Soumaya+Romdhani+%F0%9F%91%8B;AI+%26+Data+Science+Student;Building+Intelligent+Systems;Turning+Data+into+Decisions)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&text=Soumaya%20Romdhani&fontColor=ffffff&fontSize=42&fontAlignY=65&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Student&descAlignY=85&descSize=16&descColor=aaaacc" width="100%"/>
+
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E57F7&height=120&section=header&text=&fontColor=ffffff&fontSize=40&animation=fadeIn" width="100%"/>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=Turning+raw+data+into+meaningful+insight.;Crafting+intelligence%2C+one+model+at+a+time.;Deep+Learning+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision.;Where+mathematics+meets+curiosity.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<div align="center">
-
-### ◈ &nbsp; About Me &nbsp; ◈
-
-</div>
+<br/>
 
 ```python
-class DataScientist:
-    def __init__(self):
-        self.name        = "Soumaya"
-        self.role        = "AI & Data Science Student"
-        self.focus       = ["Deep Learning", "NLP", "Computer Vision", "MLOps"]
-        self.languages   = ["Python", "R", "SQL", "Bash"]
-        self.currently   = "Exploring the frontiers of Large Language Models"
-        self.looking_for = "Research collaborations & internship opportunities"
+# soumaya_romdhani.py
 
-    def say_hi(self):
-        print("Thanks for visiting my profile — let's build something extraordinary.")
+class Soumaya:
 
-me = DataScientist()
-me.say_hi()
+    name       = "Soumaya Romdhani"
+    title      = "AI & Data Science Student"
+    focus      = ["Deep Learning", "NLP & LLMs", "Computer Vision", "Data Analysis"]
+    languages  = ["Python", "R", "SQL"]
+    frameworks = ["PyTorch", "TensorFlow", "HuggingFace", "Scikit-Learn"]
+    interests  = ["Transformer architectures", "Generative AI", "Explainable AI"]
+    currently  = "Exploring the boundaries of language models & multimodal AI"
+    motto      = "Elegant models. Rigorous thinking. Meaningful outcomes."
 ```
-
----
-
-<div align="center">
-
-### ◈ &nbsp; Tech Stack &nbsp; ◈
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=6E57F7)
-![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=276DC3)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**AI / ML Frameworks**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![Keras](https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras&logoColor=D00000)
-
-**Data & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=3F4F75)
-![Tableau](https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=E97627)
-
-**MLOps & Cloud**
-
-![MLflow](https://img.shields.io/badge/MLflow-0D1117?style=for-the-badge&logo=mlflow&logoColor=0194E2)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Google Colab](https://img.shields.io/badge/Colab-0D1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
-
-</div>
-
----
-
-<div align="center">
-
-### ◈ &nbsp; Areas of Expertise &nbsp; ◈
-
-</div>
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│   🧠  Deep Learning          Neural networks, CNNs, RNNs, GANs  │
-│   💬  Natural Language       LLMs, Transformers, RAG, fine-tune  │
-│   👁️  Computer Vision        Object detection, segmentation      │
-│   📊  Data Analysis          EDA, statistical modeling, viz      │
-│   🤖  Machine Learning       Classification, regression, ensemble│
-│   ⚙️  MLOps                  Experiment tracking, deployment      │
-│                                                                   │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-### ◈ &nbsp; GitHub Stats &nbsp; ◈
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=c9d1d9"/>
+---
+
+<div align="center">
+
+### `// stack`
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=A78BFA)
+![R](https://img.shields.io/badge/R-1a1a2e?style=flat-square&logo=r&logoColor=A78BFA)
+![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=A78BFA)
+&nbsp;&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=A78BFA)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=flat-square&logo=tensorflow&logoColor=A78BFA)
+![Keras](https://img.shields.io/badge/Keras-1a1a2e?style=flat-square&logo=keras&logoColor=A78BFA)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a2e?style=flat-square&logo=huggingface&logoColor=A78BFA)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=A78BFA)
+
+<br/>
+
+![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=A78BFA)
+![NumPy](https://img.shields.io/badge/NumPy-1a1a2e?style=flat-square&logo=numpy&logoColor=A78BFA)
+![Plotly](https://img.shields.io/badge/Plotly-1a1a2e?style=flat-square&logo=plotly&logoColor=A78BFA)
+![Jupyter](https://img.shields.io/badge/Jupyter-1a1a2e?style=flat-square&logo=jupyter&logoColor=A78BFA)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=A78BFA)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=A78BFA)
+![VS Code](https://img.shields.io/badge/VS%20Code-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=A78BFA)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### `// domains`
+
+<br/>
+
+| | Domain | Focus |
+|---|---|---|
+| 🧠 | **Deep Learning** | CNNs · RNNs · Transformers · GANs |
+| 💬 | **NLP & LLMs** | Fine-tuning · RAG · Prompt Engineering |
+| 👁️ | **Computer Vision** | Detection · Segmentation · Multimodal |
+| 📊 | **Data Analysis** | EDA · Statistical Modeling · Visualization |
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### `// stats`
+
+<br/>
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SOUMAYA_USERNAME&show_icons=true&hide_border=true&bg_color=0d0d18&title_color=A78BFA&icon_color=A78BFA&text_color=ccccdd&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUMAYA_USERNAME&layout=compact&hide_border=true&bg_color=0d0d18&title_color=A78BFA&text_color=ccccdd&langs_count=6"/>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6E57F7&ring=6E57F7&fire=FF6B6B&currStreakLabel=6E57F7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SOUMAYA_USERNAME&theme=ads-dark&hide_border=true&background=0d0d18&stroke=A78BFA&ring=A78BFA&fire=c4b5fd&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=888899)](https://git.io/streak-stats)
 
 </div>
-
----
-
-<div align="center">
-
-### ◈ &nbsp; Featured Projects &nbsp; ◈
-
-</div>
-
-> 💡 *Replace these with your actual projects*
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=c9d1d9)](https://github.com/YOUR_USERNAME/YOUR_REPO_1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=c9d1d9)](https://github.com/YOUR_USERNAME/YOUR_REPO_2)
-
-</div>
-
----
-
-<div align="center">
-
-### ◈ &nbsp; Currently Learning &nbsp; ◈
-
-</div>
-
-- 🔭 &nbsp; Researching **Retrieval-Augmented Generation (RAG)** architectures
-- 🧪 &nbsp; Experimenting with **fine-tuning open-source LLMs**
-- 📖 &nbsp; Reading: *"The Elements of Statistical Learning"*
-- 🎯 &nbsp; Goal 2025: Publish my first ML research paper
-
----
-
-<div align="center">
-
-### ◈ &nbsp; Let's Connect &nbsp; ◈
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_PROFILE)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://kaggle.com/YOUR_PROFILE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_WEBSITE.com)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your@email.com)
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+---
+
+<div align="center">
+
+### `// connect`
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6E57F7&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d18?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0d0d18?style=for-the-badge&logo=kaggle&logoColor=A78BFA)](https://kaggle.com/YOUR_KAGGLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d18?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://YOUR_WEBSITE.com)
+[![Email](https://img.shields.io/badge/Email-0d0d18?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:soumaya@email.com)
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=SOUMAYA_USERNAME&color=A78BFA&style=flat-square&label=profile+views)
 
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E57F7&height=100&section=footer" width="100%"/>
+<sub><i>"The goal is to turn data into information, and information into insight."</i> — Carly Fiorina</sub>
 
-*"In God we trust. All others must bring data."* — W. Edwards Deming
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
 </div>
