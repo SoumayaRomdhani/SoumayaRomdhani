@@ -1,75 +1,118 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=220&section=header&text=Soumaya%20Romdhani&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20%E2%80%A2%20Agents%20%E2%80%A2%20Intelligent%20Systems&descSize=17&descAlignY=58" alt="Soumaya Romdhani — AI Engineering, Agents and Intelligent Systems" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:4338CA,100:06B6D4&height=250&section=header&text=SOUMAYA%20ROMDHANI&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20ENGINEERING%20%20%7C%20%20AGENTIC%20AI%20%20%7C%20%20LLMs&descSize=17&descAlignY=55" alt="Soumaya Romdhani — AI Engineering, Agentic AI and LLMs" />
 
-### Turning AI ideas into systems people can use.
+<a href="https://www.linkedin.com/in/soumaya-romdhani-92768725b/">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=22D3EE&center=true&vCenter=true&width=650&height=55&lines=From+language+models+to+working+systems.;AI+agents.+Real-time+voice.+Grounded+answers.;Building+with+curiosity.+Testing+with+purpose." alt="From language models to working systems. AI agents, real-time voice and grounded answers." />
+</a>
+
+### I build AI that connects knowledge to action.
 
 Master’s student in **Artificial Intelligence & Data Science**  
-Université Paris Dauphine–PSL · Campus Tunis
+**Université Paris Dauphine–PSL · Campus Tunis**
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Building+AI+agents+that+take+action;Connecting+LLMs+to+real-world+knowledge;Designing+natural+voice+experiences;Exploring+AI+for+cybersecurity" alt="Interests: AI agents, LLMs, RAG, voice AI and cybersecurity" />
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/soumaya-romdhani-92768725b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-2563EB?style=for-the-badge" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:romdhani.soumaya.work@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_in_touch-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" />
+  <img src="https://img.shields.io/badge/Email-LET'S_TALK-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" />
 </a>
+
+<br/><br/>
+
+<a href="#-selected-work">Selected work</a>
+&nbsp; · &nbsp;
+<a href="#-engineering-toolkit">Engineering toolkit</a>
+&nbsp; · &nbsp;
+<a href="#-lets-build-together">Opportunities</a>
 
 </div>
 
 <br/>
 
-## About me
+## ✦ Beyond the model
 
-I’m interested in what happens beyond the model: how AI retrieves the right knowledge, uses tools, responds in real time, and earns the trust of the people using it.
+**A good model is a starting point. I’m interested in building the system around it.**
 
-My work spans **conversational agents, retrieval-augmented generation, and AI for cybersecurity**. I enjoy connecting the pieces—from data and backend services to evaluation and user experience—to turn an experiment into something useful.
+I work at the intersection of **AI engineering, language models, and real-world applications**—connecting retrieval, tools, APIs, and conversation into useful workflows.
 
-- **Building:** AI agents, RAG pipelines, and voice applications.
-- **Exploring:** LLM fine-tuning, agent orchestration, and explainability.
-- **Working toward:** AI systems that are useful, reliable, and measurable.
-- **Open to:** Applied AI collaborations and engineering opportunities.
+My projects span **real-time voice agents**, **hybrid RAG**, and **security copilots**. What draws me in is the engineering behind the experience: finding the right context, choosing the next action, and making the result reliable enough to use.
+
+> **My focus:** build with a clear purpose, evaluate what matters, and keep people in control.
 
 <br/>
 
-## What I work on
+## ⚡ Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Agentic AI & LLMs
+### 🎙️ EchoAssist
+**REAL-TIME VOICE AI**
 
-Tool use, orchestration, and multi-agent workflows that connect language models to practical tasks.
+A conversational agent for **HR pre-screening and IT helpdesk**, bringing speech, knowledge retrieval, and dialogue into one pipeline.
+
+**Engineering highlights**
+- Streaming STT → LLM → TTS
+- Hybrid retrieval and reranking
+- Bilingual HR and IT workflows
+- FastAPI backend and LiveKit transport
+
+`Voice AI` `RAG` `LLMs` `FastAPI`
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Retrieval & Knowledge
+### 🛡️ SOC Copilot
+**AGENTIC AI × CYBERSECURITY**
 
-RAG pipelines, hybrid search, reranking, and document processing to ground answers in relevant information.
+A multi-agent project at **Trusted Clicks** to support security investigations through contextual enrichment and explainable prioritization.
+
+**Engineering highlights**
+- Alert enrichment and correlation
+- Threat intelligence integration
+- MITRE ATT&CK mapping
+- Human oversight in the workflow
+
+`Multi-agent systems` `Cybersecurity` `XAI`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Voice & Conversation
+### 🌐 Voice-First Public Services
+**CONVERSATIONAL AI · OMDENA**
 
-Conversational systems combining speech recognition, dialogue management, retrieval, and speech synthesis.
+Contributed to a voice-first public services project connecting conversational architecture with document intelligence.
+
+**Areas of contribution**
+- LLM and RAG architecture
+- Document extraction and processing
+- Semantic chunking
+- NLP routing
+
+`Document Intelligence` `NLP` `RAG`
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ AI & Cybersecurity
+### 🔎 Explainability in Practice
+**UNDERSTANDING MODEL BEHAVIOR**
 
-Security copilots that help enrich alerts, connect evidence, and support human investigation.
+A bank marketing project examining explanation consistency through **SHAP**, random baselines, and counterfactuals.
+
+**Questions explored**
+- How stable are explanations?
+- What do different methods reveal?
+- How should explanations be assessed?
+- When can transparency mislead?
+
+`Explainable AI` `SHAP` `Evaluation`
 
 </td>
 </tr>
@@ -77,38 +120,52 @@ Security copilots that help enrich alerts, connect evidence, and support human i
 
 <br/>
 
-## Selected work
+## 🧩 What I bring to a project
 
-### EchoAssist · Voice AI
-A real-time conversational agent for HR pre-screening and IT helpdesk scenarios, connecting streaming speech recognition, RAG, LLMs, and speech synthesis.
-
-`Python` `FastAPI` `LiveKit` `Qdrant` `RAG`
-
-### SOC Copilot · AI for cybersecurity
-A multi-agent project at Trusted Clicks focused on alert enrichment, threat intelligence, and explainable prioritization with human oversight.
-
-`Multi-agent systems` `Threat intelligence` `MITRE ATT&CK`
-
-### Voice-First Public Services · Omdena
-Contributed to conversational architecture and document intelligence for a voice-first public services project.
-
-`Conversational AI` `Document intelligence` `NLP`
+| Area | My focus |
+| :--- | :--- |
+| **Agentic AI** | Connecting models to tools, context, and multi-step workflows |
+| **LLM Engineering** | Integrating language models into practical applications |
+| **Retrieval & RAG** | Hybrid search, semantic chunking, reranking, and grounded responses |
+| **Voice AI** | Streaming speech pipelines and conversational experiences |
+| **AI × Cybersecurity** | Investigation support, contextual enrichment, and explainability |
+| **Evaluation** | Examining performance, reliability, and explanation quality |
 
 <br/>
 
-## Tools I build with
+## 🛠 Engineering toolkit
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=38BDF8" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=38BDF8" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-0F172A?style=for-the-badge&logo=redis&logoColor=38BDF8" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=38BDF8" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=38BDF8" alt="Git" />
-</p>
+<div align="center">
 
-**Core interests**  
-LLM Engineering · Agentic AI · RAG · NLP · Explainable AI · Voice AI
+**APPLICATIONS & DATA**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git&theme=dark&perline=6" alt="Python, FastAPI, PostgreSQL, Redis, Docker and Git" />
+
+<br/><br/>
+
+**AI SYSTEMS & RETRIEVAL**
+
+<br/>
+
+<img src="https://img.shields.io/badge/LLMs-4338CA?style=flat-square" alt="LLMs" />
+<img src="https://img.shields.io/badge/AI_Agents-4338CA?style=flat-square" alt="AI Agents" />
+<img src="https://img.shields.io/badge/Hybrid_RAG-4338CA?style=flat-square" alt="Hybrid RAG" />
+<img src="https://img.shields.io/badge/Qdrant-0891B2?style=flat-square" alt="Qdrant" />
+<img src="https://img.shields.io/badge/LiveKit-0891B2?style=flat-square" alt="LiveKit" />
+<img src="https://img.shields.io/badge/Deepgram-0891B2?style=flat-square" alt="Deepgram" />
+
+</div>
+
+<br/>
+
+## 🌱 Currently exploring
+
+- **Agent orchestration:** helping agents choose tools and coordinate tasks.
+- **LLM adaptation:** exploring fine-tuning for specific use cases.
+- **Trustworthy AI:** evaluating retrieval, responses, and explanations.
+- **Document intelligence:** turning unstructured content into usable knowledge.
 
 <br/>
 
@@ -116,19 +173,28 @@ LLM Engineering · Agentic AI · RAG · NLP · Explainable AI · Voice AI
 
 <div align="center">
 
-### Let’s build something useful.
+## 🚀 Let’s build together
 
-Interested in AI agents, language models, or applied AI?  
-I’d love to exchange ideas and explore opportunities to work together.
+**Looking for a 6-month final-year internship in France**  
+**Starting February / March 2027**
 
-**Seeking a 6-month final-year internship in France · February / March 2027**
-
-[Connect on LinkedIn](https://www.linkedin.com/in/soumaya-romdhani-92768725b/) · [Send an email](mailto:romdhani.soumaya.work@gmail.com)
+AI Engineering &nbsp; · &nbsp; Agentic AI &nbsp; · &nbsp; LLMs & RAG &nbsp; · &nbsp; AI for Cybersecurity
 
 <br/>
 
-*Curiosity drives the experiments. Real-world usefulness guides the engineering.*
+I’m looking for a team where I can **contribute to real AI products**,  
+take on engineering challenges, and learn from people who care about their craft.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=100&section=footer" alt="" />
+<br/>
+
+<a href="mailto:romdhani.soumaya.work@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING_USEFUL-4338CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Let’s build something useful — email Soumaya" />
+</a>
+
+<br/><br/>
+
+<sub>Curious about the research. Hands-on with the engineering. Focused on the people using it.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:4338CA,100:06B6D4&height=120&section=footer" alt="" />
 
 </div>
