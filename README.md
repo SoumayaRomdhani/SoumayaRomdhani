@@ -158,16 +158,7 @@ A bank marketing project examining explanation consistency through **SHAP**, ran
 
 </div>
 
-<br/>
 
-## 🌱 Currently exploring
-
-- **Agent orchestration:** helping agents choose tools and coordinate tasks.
-- **LLM adaptation:** exploring fine-tuning for specific use cases.
-- **Trustworthy AI:** evaluating retrieval, responses, and explanations.
-- **Document intelligence:** turning unstructured content into usable knowledge.
-
-<br/>
 
 ---
 
@@ -175,17 +166,9 @@ A bank marketing project examining explanation consistency through **SHAP**, ran
 
 ## 🚀 Let’s build together
 
-**Looking for a 6-month final-year internship in France**  
-**Starting February / March 2027**
 
 AI Engineering &nbsp; · &nbsp; Agentic AI &nbsp; · &nbsp; LLMs & RAG &nbsp; · &nbsp; AI for Cybersecurity
 
-<br/>
-
-I’m looking for a team where I can **contribute to real AI products**,  
-take on engineering challenges, and learn from people who care about their craft.
-
-<br/>
 
 <a href="mailto:romdhani.soumaya.work@gmail.com">
   <img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING_USEFUL-4338CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Let’s build something useful — email Soumaya" />
