@@ -176,7 +176,6 @@ AI Engineering &nbsp; · &nbsp; Agentic AI &nbsp; · &nbsp; LLMs & RAG &nbsp; ·
 
 <br/><br/>
 
-<sub>Curious about the research. Hands-on with the engineering. Focused on the people using it.</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:4338CA,100:06B6D4&height=120&section=footer" alt="" />
 
