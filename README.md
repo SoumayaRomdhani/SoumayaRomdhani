@@ -10,46 +10,84 @@ Université Paris Dauphine–PSL · Campus Tunis
 <br/>
 
 <a href="https://www.linkedin.com/in/soumaya-romdhani-92768725b/">
-  <img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:romdhani.soumaya.work@gmail.com">
-  <img src="https://img.shields.io/badge/Get_in_touch-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Get_in_touch-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch by email" />
 </a>
+
+<br/><br/>
+
+<h3>✦ Where intelligence becomes experience.</h3>
+
+<p>
+I connect <b>models, knowledge, and tools</b> to build useful AI applications.<br/>
+From the first interaction to the backend logic, I care about <b>how the whole system works.</b>
+</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=1300&color=22D3EE&center=true&vCenter=true&width=550&height=40&lines=Agents+that+act.;Answers+grounded+in+knowledge.;Conversations+that+flow.;AI+connected+to+real+workflows." alt="Agents that act. Grounded answers. Natural conversations. Connected workflows." />
 
 </div>
 
 <br/>
 
-### A little about me
-
-I turn AI concepts into working applications—connecting **language models, knowledge, and tools** to solve practical problems. My experience spans conversational AI, document intelligence, and AI for cybersecurity, with a focus on **usefulness, reliability, and user experience**.
-
-<br/>
-
-### What I build
-
-| | |
-| :--- | :--- |
-| **Agentic workflows** | AI agents that use tools and coordinate tasks |
-| **Knowledge assistants** | RAG applications grounded in relevant documents |
-| **Voice experiences** | Conversational systems connecting speech and language models |
-| **Applied AI services** | APIs and backend integrations that bring AI into real workflows |
-
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>◈ &nbsp; Agentic AI</h3>
+<p>From intent to action.<br/>
+<b>Tool-using agents</b> and coordinated workflows that turn requests into practical steps.</p>
+</td>
+<td width="50%" valign="top">
+<h3>◈ &nbsp; Knowledge &amp; RAG</h3>
+<p>Context behind every answer.<br/>
+<b>Knowledge assistants</b> that retrieve relevant information and ground responses in documents.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>◈ &nbsp; Voice &amp; Conversation</h3>
+<p>A more natural way to interact.<br/>
+<b>Voice applications</b> that connect speech, language models, and conversational logic.</p>
+</td>
+<td width="50%" valign="top">
+<h3>◈ &nbsp; AI Engineering</h3>
+<p>The connections that make it work.<br/>
+<b>APIs and backend services</b> that bring AI capabilities into everyday applications.</p>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git&theme=dark" alt="Python · FastAPI · PostgreSQL · Redis · Docker · Git" />
+<br/>
+
+<sub><b>Built with curiosity. Shaped by evaluation. Designed for people.</b></sub>
 
 <br/><br/>
 
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git&theme=dark" alt="Python, FastAPI, PostgreSQL, Redis, Docker and Git" />
+
+<br/><br/>
+
+**Exploring deeper:** LLM fine-tuning · Agent orchestration · Explainable AI
 
 <br/>
 
 ---
 
+**Open to AI engineering opportunities & thoughtful collaborations.**
 
+<sub>Seeking a 6-month internship in France · February / March 2027</sub>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/soumaya-romdhani-92768725b/">Let’s connect</a>
+&nbsp; · &nbsp;
+<a href="mailto:romdhani.soumaya.work@gmail.com">Let’s build something useful</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,60:312E81,100:0891B2&height=90&section=footer" alt="" />
 
