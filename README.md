@@ -5,7 +5,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1400&color=22D3EE&center=true&vCenter=true&width=580&height=45&lines=From+ideas+to+intelligent+applications.;Connecting+models%2C+knowledge%2C+and+tools.;Building+AI+with+purpose." alt="From ideas to intelligent applications. Connecting models, knowledge and tools." />
 
 **Master’s in Artificial Intelligence & Data Science**  
-Université Paris Dauphine–PSL 
+**Université Paris Dauphine–PSL**
+
 Agentic AI • Generative AI • LLMs • RAG • Multi-Agent Systems
 
 <br/>
