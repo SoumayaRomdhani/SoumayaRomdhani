@@ -44,15 +44,12 @@ I turn AI concepts into working applications—connecting **language models, kno
 
 <br/><br/>
 
-**Exploring deeper:** LLM fine-tuning · Agent orchestration · Explainable AI
 
 <br/>
 
 ---
 
-**Open to AI engineering opportunities & thoughtful collaborations.**
 
-<sub>Seeking a 6-month internship in France · February / March 2027</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,60:312E81,100:0891B2&height=90&section=footer" alt="" />
 
